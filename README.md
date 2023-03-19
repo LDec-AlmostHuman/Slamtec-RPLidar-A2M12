@@ -124,7 +124,7 @@ SLAMTEC LIDAR S/N: (32 characters serial number)
 Firmware Ver: 1.32
 Hardware Rev: 6
 ```
-Now let's test simple_grabber
+Now let's test simple_grabber:
 ```
 ./simple_grabber --channel --serial /dev/ttyUSB0 257175
 ```
