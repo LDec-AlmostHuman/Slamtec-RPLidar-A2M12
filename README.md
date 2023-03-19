@@ -21,7 +21,7 @@ with:
 ```
 return ans == nullptr ? RESULT_OPERATION_FAIL : RESULT_OK;
 ```
-save the file, get back to rplidar_sdk directory and now should compile.
+save the file, and **get back** to rplidar_sdk directory and now should compile.
 ```
 make
 ```
